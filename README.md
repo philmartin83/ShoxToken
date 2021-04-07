@@ -1,0 +1,2 @@
+# ShoxToken
+Smart Contract token
